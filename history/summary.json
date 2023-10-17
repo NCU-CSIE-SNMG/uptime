@@ -4,19 +4,19 @@
     "url": "https://www.csie.ncu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.csie.ncu.edu.tw.ico",
     "slug": "csie-website",
-    "status": "down",
-    "uptime": "99.36%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.36%",
-    "time": 5304,
-    "timeDay": 5304,
-    "timeWeek": 5304,
-    "timeMonth": 5304,
-    "timeYear": 5304,
+    "status": "up",
+    "uptime": "94.37%",
+    "uptimeDay": "94.37%",
+    "uptimeWeek": "94.37%",
+    "uptimeMonth": "94.37%",
+    "uptimeYear": "94.37%",
+    "time": 5323,
+    "timeDay": 5323,
+    "timeWeek": 5323,
+    "timeMonth": 5323,
+    "timeYear": 5323,
     "dailyMinutesDown": {
-      "2023-10-17": 1
+      "2023-10-17": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceecs.ncu.edu.tw.ico",
     "slug": "ceecs-website",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 176
+      "2023-10-17": 186
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://classroom.csie.ncu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.csie.ncu.edu.tw.ico",
     "slug": "csie-classroom-website",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1285,
-    "timeDay": 1285,
-    "timeWeek": 1285,
-    "timeMonth": 1285,
-    "timeYear": 1285,
+    "status": "up",
+    "uptime": "94.65%",
+    "uptimeDay": "94.65%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "94.65%",
+    "uptimeYear": "94.65%",
+    "time": 1003,
+    "timeDay": 1003,
+    "timeWeek": 1003,
+    "timeMonth": 1003,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 10
     }
   }
 ]
