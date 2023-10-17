@@ -4,18 +4,20 @@
     "url": "https://www.csie.ncu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/www.csie.ncu.edu.tw.ico",
     "slug": "csie-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 5304,
     "timeDay": 5304,
     "timeWeek": 5304,
     "timeMonth": 5304,
     "timeYear": 5304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 1
+    }
   },
   {
     "name": "CEECS Website",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceecs.ncu.edu.tw.ico",
     "slug": "ceecs-website",
     "status": "down",
-    "uptime": "49.63%",
-    "uptimeDay": "49.63%",
-    "uptimeWeek": "49.63%",
-    "uptimeMonth": "49.63%",
-    "uptimeYear": "49.63%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 176
     }
   },
   {
@@ -42,17 +44,19 @@
     "url": "https://classroom.csie.ncu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.csie.ncu.edu.tw.ico",
     "slug": "csie-classroom-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1285,
     "timeDay": 1285,
     "timeWeek": 1285,
     "timeMonth": 1285,
     "timeYear": 1285,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   }
 ]
