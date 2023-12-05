@@ -21,7 +21,7 @@ status-website:
   introMessage: NCU CSIE SNMG service uptime monitor
   navbar:
     - title: Status
-      href: /
+      href: /uptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
