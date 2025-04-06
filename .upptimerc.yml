@@ -9,6 +9,14 @@ sites:
     url: https://www.ceecs.ncu.edu.tw
   - name: CSIE Classroom Website
     url: https://classroom.csie.ncu.edu.tw
+  - name: CSIE DNS master
+    check: "tcp-ping"
+    url: 140.115.50.1
+    port: 53
+  - name: CSIE DNS slave
+    check: "tcp-ping"
+    url: 140.115.50.2
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
