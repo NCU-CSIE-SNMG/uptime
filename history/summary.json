@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2846,
-    "timeDay": 3008,
-    "timeWeek": 3008,
-    "timeMonth": 3008,
-    "timeYear": 2890,
-    "dailyMinutesDown": {
-      "2024-04-07": 20
-    }
+    "time": 2851,
+    "timeDay": 3094,
+    "timeWeek": 3094,
+    "timeMonth": 3094,
+    "timeYear": 2853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CEECS Website",
@@ -30,14 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 3172,
-    "timeDay": 2693,
-    "timeWeek": 2693,
-    "timeMonth": 2693,
-    "timeYear": 3147,
+    "time": 3179,
+    "timeDay": 2901,
+    "timeWeek": 2901,
+    "timeMonth": 2901,
+    "timeYear": 3149,
     "dailyMinutesDown": {
-      "2024-06-18": 9,
-      "2024-04-07": 56
+      "2024-06-18": 9
     }
   },
   {
@@ -51,10 +48,10 @@
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.99%",
-    "time": 2114,
-    "timeDay": 2021,
-    "timeWeek": 2021,
-    "timeMonth": 2021,
+    "time": 2117,
+    "timeDay": 1970,
+    "timeWeek": 1970,
+    "timeMonth": 1970,
     "timeYear": 2116,
     "dailyMinutesDown": {
       "2025-04-06": 73
@@ -66,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "csie-dns-master",
     "status": "up",
-    "uptime": "97.73%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "97.73%",
-    "uptimeYear": "97.73%",
-    "time": 213,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 213,
-    "timeYear": 213,
+    "uptime": "99.14%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2025-04-06": 6
     }
@@ -91,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 217,
+    "timeDay": 217,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {}
   }
 ]
