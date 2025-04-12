@@ -17,7 +17,7 @@ sites:
     url: https://www.ceecs.ncu.edu.tw
   - name: CSIE Classroom Website
     url: https://classroom.csie.ncu.edu.tw
-  - name: SM<G Websote
+  - name: SNMG Website
     url: https://snmg.csie.ncu.edu.tw
   - name: CSIE DNS master
     check: "tcp-ping"
