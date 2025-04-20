@@ -46,18 +46,19 @@
     "url": "https://classroom.csie.ncu.edu.tw",
     "icon": "https://icons.duckduckgo.com/ip3/classroom.csie.ncu.edu.tw.ico",
     "slug": "csie-classroom-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.98%",
-    "time": 2128,
+    "time": 2132,
     "timeDay": 2398,
     "timeWeek": 1956,
     "timeMonth": 2009,
     "timeYear": 2092,
     "dailyMinutesDown": {
+      "2025-04-20": 0,
       "2025-04-07": 12,
       "2025-04-06": 73
     }
