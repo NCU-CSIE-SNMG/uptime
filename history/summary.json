@@ -73,11 +73,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/snmg.csie.ncu.edu.tw.ico",
     "slug": "snmg-website",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 2224,
     "timeDay": 2586,
     "timeWeek": 2479,
@@ -123,9 +123,9 @@
     "url": "140.115.50.2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "csie-dns-slave",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -134,6 +134,8 @@
     "timeWeek": 227,
     "timeMonth": 212,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-23": 0
+    }
   }
 ]
