@@ -3,8 +3,6 @@ owner: NCU-CSIE-SNMG # Your GitHub organization or username, where this reposito
 repo: uptime # The name of this repository
 
 assignees:
-  - chenliTW
-  - shadowcollecter
   - Suifeng0214
   - ATREE01
   - Jchw-engr
