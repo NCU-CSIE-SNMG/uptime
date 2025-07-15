@@ -16,8 +16,6 @@ sites:
   - name: CSIE Classroom Website
     url: https://classroom.csie.ncu.edu.tw
   - name: SNMG Website
-    url: https://snmg.csie.ncu.edu.tw
-  - name: CSIE DNS master
     check: "tcp-ping"
     url: 140.115.50.1
     port: 53
